@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Goll/static/css/main.bff0a468.css",
+    "main.js": "/Goll/static/js/main.336307e1.js",
+    "static/media/page2rect1.png": "/Goll/static/media/page2rect1.4b4fabfd803b9bc2432e.png",
+    "static/media/backimg1.png": "/Goll/static/media/backimg1.e81e24640cc1797001ab.png",
+    "static/media/snorekillling.png": "/Goll/static/media/snorekillling.f1673763f946d00bba4f.png",
+    "static/media/page2rect11.png": "/Goll/static/media/page2rect11.1633d0db19071d750ee7.png",
+    "static/media/page2rect10.png": "/Goll/static/media/page2rect10.90c3c38fe7833d2dd6dc.png",
+    "static/media/turtlewatch.png": "/Goll/static/media/turtlewatch.b49ce4fa40f821748501.png",
+    "static/media/kayaking.png": "/Goll/static/media/kayaking.eca67ef25e0ef78f7ff9.png",
+    "static/media/scuba.png": "/Goll/static/media/scuba.774a083f637ef0309871.png",
+    "static/media/page2rect4.png": "/Goll/static/media/page2rect4.05639ed814854f5318d7.png",
+    "static/media/page2rect2.png": "/Goll/static/media/page2rect2.59a260cb095335349a1b.png",
+    "static/media/page2rect3.png": "/Goll/static/media/page2rect3.ad2412cac96f7c9470f7.png",
+    "static/media/jetski.png": "/Goll/static/media/jetski.415ebcc6b1d35b206d49.png",
+    "static/media/Kavaratti.png": "/Goll/static/media/Kavaratti.d336172876630882d683.png",
+    "static/media/page2rect5.png": "/Goll/static/media/page2rect5.dd94a4f5bf824c18a068.png",
+    "static/media/page2rect8.png": "/Goll/static/media/page2rect8.7ded7f014c3b04cc7298.png",
+    "static/media/page2rect6.png": "/Goll/static/media/page2rect6.c05f5249ad1fb8a67a48.png",
+    "static/media/page2rect7.png": "/Goll/static/media/page2rect7.e5fdaa57451ea330c605.png",
+    "static/media/parasailing.png": "/Goll/static/media/parasailing.3aa3665bc934f3cfd504.png",
+    "static/media/Boat.png": "/Goll/static/media/Boat.2fd76b9f4eade80810aa.png",
+    "static/media/page2rect9.png": "/Goll/static/media/page2rect9.ec7658006939c52f0ca8.png",
+    "static/media/Vector.png": "/Goll/static/media/Vector.842ade8325ff21388a7b.png",
+    "index.html": "/Goll/index.html",
+    "main.bff0a468.css.map": "/Goll/static/css/main.bff0a468.css.map",
+    "main.336307e1.js.map": "/Goll/static/js/main.336307e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff0a468.css",
+    "static/js/main.336307e1.js"
+  ]
+}
