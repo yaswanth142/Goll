@@ -1,0 +1,559 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search input {
+    border-radius: 20rem;
+    border: .1rem solid black;
+    margin-left: 40rem;
+    text-align: center;
+}
+
+.boat {
+    float: right;
+    margin-left: 80rem;
+    margin-top: 5rem;
+}
+
+.island {
+    /* margin-left: 45rem; */
+    margin-top: -5rem;
+    font-size: 2rem;
+    align-items: center;
+    margin-left: 45rem;
+    margin-top: 24rem;
+}
+
+.lorem {
+    align-items: center;
+    text-align: center;
+}
+
+.discover {
+    align-items: center;
+    justify-items: center;
+    margin-left: 35rem;
+    width: 15rem;
+}
+
+.left {
+    float: left;
+    margin: 5rem;
+    /* text-align: center;
+    justify-content: center; */
+}
+
+.right img {
+    float: right;
+    /* position: absolute; */
+    width: 35rem;
+    height: 457px;
+    left: 612px;
+    top: 2181px;
+    margin: 5rem;
+    border-radius: 15px;
+}
+
+.contact {
+    background-color: rgb(9, 107, 146);
+    width: 10rem;
+    height: 3rem;
+    border-radius: 1rem;
+}
+
+.sub {
+    margin-top: 45rem;
+}
+
+.sub1 {
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    font-size: 2.5rem;
+    font-size: bold;
+    color: aliceblue;
+}
+
+.bgimg {
+    background: url('./components/lakshdeewpimg/backimg1.png');
+    background-size: cover;
+    height: 15rem;
+    margin: 10rem;
+    margin-top: 0rem;
+}
+
+input {
+    align-items: center;
+    margin-left: 28rem;
+    margin-top: 3rem;
+    border-radius: .5rem;
+    width: 20rem;
+    height: 3rem;
+}
+
+.subb2 {
+    background-color: rgb(53, 157, 198);
+    width: 5rem;
+    height: 3rem;
+    border-radius: .5rem;
+}
+
+.f1 {
+    background: black;
+    height: 15rem;
+    margin: 2rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.f {
+    margin: 8rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+}
+
+.f1t {
+    color: aliceblue;
+    font-size: 2.5rem;
+    font-size: bold;
+}
+
+.fright img {
+    background-color: rgb(53, 157, 198);
+    border-radius: 8rem;
+    height: 14rem;
+    float: right;
+    z-index: 10rem;
+    margin-top: -9rem;
+    align-items: center;
+}
+
+.fotter {
+    width: 100%;
+    height: 30rem;
+    background-color: rgb(72, 148, 205);
+
+}
+
+
+
+/* Gallary css Code Starts Here */
+
+.GallaryFlex ul {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    border-radius: 2rem;
+    height: 3rem;
+    padding: 15px;
+}
+
+.GallaryFlex {
+    padding: 10rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+
+.lkimg1 {
+    width: 50rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin: 4rem;
+
+}
+
+.lkimg2 {
+    width: 20rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin: 4rem;
+}
+
+.lkimg3 {
+    width: 20rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin: .5rem;
+
+}
+
+.lkimg4 {
+    width: 30rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin: .5rem;
+
+}
+
+.lkimg5 {
+    width: 40rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin: .5rem;
+}
+
+.p2 {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+}
+
+.p1 {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+}
+
+
+
+.mainp1 {
+    width: 100;
+    height: 30rem;
+    display: flex;
+    flex-direction: row;
+    border-radius: 0.2rem solid black;
+    background-color: rgb(182, 213, 202);
+}
+
+.mainp2 {
+    width: 100;
+    height: 15rem;
+    margin: 5rem;
+    font-size: xx-large;
+}
+
+.mainp3 {
+    flex-direction: row;
+    display: flex;
+}
+
+.lkimg6 {
+    /* width: 15rem;
+    height: 28rem; */
+    border-radius: 0.1rem;
+    position: absolute;
+    width: 215.35px;
+    height: 277.92px;
+    right: 553.65px;
+    top: 1986.03px;
+    margin-top: 9rem;
+}
+
+.lkimg7 {
+    width: 15rem;
+    height: 18rem;
+    border-radius: 0.1rem;
+    margin-top: 2rem;
+    position: absolute;
+    margin-left: 13rem;
+}
+
+.lkimg8 {
+    width: 15rem;
+    height: 28rem;
+    border-radius: 0.1rem;
+    padding-top: 9rem;
+    z-index: 10;
+}
+
+.lkimg9 {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 0.1rem;
+    margin-left: 35rem;
+
+}
+
+.mainp4 {
+    /* float: right; */
+    margin-left: 54rem;
+    margin-top: 2rem;
+}
+
+.gp1 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 8rem;
+    margin-right: 8rem;
+    margin-top: -6rem;
+    margin-bottom: 2rem;
+}
+
+.lkimg10 {
+    width: 45rem;
+    height: 25rem;
+    border-radius: 0.1rem;
+    margin-top: 8rem;
+}
+
+/* Gallary css Code Ends Here */
+
+
+/* Attraction Section code Strats Here */
+
+.page3flex {
+    width: 100;
+    height: 20rem;
+    display: flex;
+    flex-direction: row;
+    background-color: beige;
+    margin: 5rem;
+    text-align: center;
+}
+
+.page3flex1 {
+    width: 20rem;
+    height: 15rem;
+    display: flex;
+    background-color: white;
+    margin: 2rem;
+}
+
+.page3flex2 {
+    width: 20rem;
+    height: 15rem;
+    display: flex;
+    background-color: white;
+    margin: 2rem;
+}
+
+.page3flex3 {
+    width: 20rem;
+    height: 15rem;
+    display: flex;
+    background-color: white;
+    margin: 2rem;
+}
+
+.page3flex4 {
+    width: 20rem;
+    height: 15rem;
+    display: flex;
+    background-color: white;
+    margin: 2rem;
+
+}
+
+.page3cards {
+    height: 150rem;
+    width: 100;
+    display: flex;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+.page3cards1 {
+    height: 20rem;
+    width: 100;
+    display: flex;
+    background-color: white;
+    margin: 5rem;
+    margin-top: 0rem;
+    flex-direction: row;
+}
+
+.page3cardt {
+
+    margin-left: 15rem;
+    margin-top: 3rem;
+    align-self: stretch;
+}
+
+.page3cards2 {
+    height: 20rem;
+    width: 100;
+    display: flex;
+    background-color: white;
+    margin: 5rem;
+    margin-top: 0rem;
+    flex-direction: row;
+}
+
+.page3cardt {
+
+    /* margin-left: 15rem; */
+    margin-top: 3rem;
+    align-self: stretch;
+}
+
+
+/* /////////////////////////////////////////////////// */
+
+
+/* /////////////////////////////////////////////////// */
+
+@media only screen and (max-width: 200px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+/* ///////////////////////////////////////////////////////// */
+@media only screen and (max-width: 600px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+
+/* /////////////////////////////////////////////////// */
+
+@media only screen and (max-width: 768px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+
+/* /////////////////////////////////////////////////// */
+
+@media only screen and (max-width: 1024px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+
+/* /////////////////////////////////////////////////// */
+
+@media only screen and (max-width: 1280px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+
+/* /////////////////////////////////////////////////// */
+
+@media only screen and (max-width: 1536px) {
+
+
+    /* iland code starts here */
+    .islandPage {
+        width: 100rem;
+    }
+
+    /* iland code ends here */
+
+    /* gallary code starts here */
+
+    .gallary {
+        width: 100rem;
+    }
+
+    /* gallary code ends here */
+
+
+    /* cards responsive code starts here*/
+    .attraction {
+        width: 100rem;
+    }
+    /* cards responsive ends code */
+
+}
+
+/* Attraction Section code Ends Here */
